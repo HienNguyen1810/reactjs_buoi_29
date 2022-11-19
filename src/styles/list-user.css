@@ -9,3 +9,9 @@
 :where(.css-dev-only-do-not-override-cdsmsz).ant-form-item .ant-form-item-label>label {
     content: none;
 }
+
+
+.ant-table-wrapper .ant-table-thead>tr>th {
+    background: #212529;
+    color: #fff;
+}
