@@ -1,0 +1,11 @@
+.ant-form-item-required > label {
+    display: none;
+}
+
+.ant-form-item-required:after {
+    display: none;
+}
+
+:where(.css-dev-only-do-not-override-cdsmsz).ant-form-item .ant-form-item-label>label {
+    content: none;
+}
